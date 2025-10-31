@@ -4,6 +4,8 @@ Este projeto é um e-book educacional que tem como objetivo desmistificar e expl
 
 Este material foi criado como parte de um desafio prático de inovação dentro da trilha de conhecimento **"Fundamentos de IA Generativa"** da **UNIVERSIA**, disponibilizada pela plataforma **DIO**.
 
+<p>Você pode baixar o ebook <a href="Double Diamond ebook.pdf">Clicando aqui</a></p>
+
 **O principal propósito deste projeto foi:**
 
 * Demonstrar a aplicação da Inteligência Artificial (**Gemini**) na criação de conteúdo estruturado e didático.
