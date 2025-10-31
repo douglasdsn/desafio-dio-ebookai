@@ -1,3 +1,11 @@
+<div align="center">
+    <h1>Double Diamond: Desvende o problema, crie a solução!</h1>
+    <img src="capa.png" alt="Capa do ebook Double diamond: Desvende o problema, crie a solução!" style="width:100%; max-width:600px; height:auto;"/>
+  
+</div>
+
+<hr>
+
 ## Sobre o Projeto
 
 Este projeto é um e-book educacional que tem como objetivo desmistificar e explicar de forma clara e acessível o framework de design Double Diamond (Duplo Diamante), incluindo as ferramentas essenciais para cada uma de suas quatro fases: **Descobrir**, **Definir**, **Desenvolver** e **Entregar**.
